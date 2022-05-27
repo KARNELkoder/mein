@@ -1231,10 +1231,10 @@ footer a {    color: #ffffff;
 .modal-title2 {
     font-family: "Proxima Nova - Semibold";
     font-weight: 500;
-    font-size: 16px;
+    font-size: 8px;
     color: #716a85;
     margin-top: 5px;
-    margin-bottom: 8px;
+    margin-bottom: 15px;
 }
 
 .modal-title span {
