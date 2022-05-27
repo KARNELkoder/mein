@@ -522,7 +522,7 @@ body {
     background: url(../assets/images/by_item.png) no-repeat center;
     width: 129px;
     height: 116px;
-    top: -80px;
+	top: -80px;
 }
 
 .func_out {
@@ -901,7 +901,7 @@ body {
 }
 
 .faq_out .faq .items .item .bot {
-    display: none;
+   
     padding: 20px;
     transform: skewX(-10deg);
 }
