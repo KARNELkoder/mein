@@ -93,7 +93,7 @@ body {
     display: block;
     color: #ffffff;
     font-family: "Proxima Nova";
-    font-size: 14px;
+	font-size: 14px;
     font-weight: 300;
     line-height: 13px;
     text-decoration: none;
@@ -901,7 +901,7 @@ body {
 }
 
 .faq_out .faq .items .item .bot {
-   
+   display: none;
     padding: 20px;
     transform: skewX(-10deg);
 }
